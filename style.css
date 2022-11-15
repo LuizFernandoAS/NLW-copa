@@ -37,6 +37,7 @@ header{
 
   display: flex;
   flex-direction: column;
+  height: fit-content;
 }
 
 .card h2{
@@ -45,7 +46,7 @@ header{
   gap: 8px;
 
   width: fit-content;
-  margin: auto;
+  margin: 0 auto;
   margin-bottom: 53px;
   padding: 8px 16px;
 
